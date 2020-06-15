@@ -1,32 +1,19 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+# Projeto de construção de uma página pessoal para agregar todos os projetos que estou envolvido 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+créditos do template:
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
 
 Credits:
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
-	Icons:
+	Ícones:
 		Font Awesome (fontawesome.io)
 
-	Other:
+	Outros:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
